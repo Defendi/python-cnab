@@ -137,8 +137,8 @@
       "nome": "sacador_inscricao_numero",
       "posicao_inicio": 155,
       "posicao_fim": 169,
-      "formato": "num",
-      "default": 0
+      "formato": "alfa",
+      "default": ""
     },
 
     "20.3Q": {
